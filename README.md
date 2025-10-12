@@ -1,5 +1,5 @@
 
-# XIV Bot v2 - Discord AI Utility Bot By Armaan Sapra
+# XIV Bot v2 - Discord AI Utility Bot By A20S10
 
 XIV Bot is a Discord bot powered by Groq's Llama model, designed to serve as an AI utility bot for Discord communities. The bot provides conversational AI capabilities along with moderation features. 
 
@@ -140,7 +140,7 @@ This bot is designed to run either locally or to be hosted on the cloud, it was 
 
 ## Contributing
 
-This bot was created by Armaan Sapra. Feel free to fork and modify for your own Discord communities.
+This bot was created by A20S10 on Github. Feel free to fork and modify for your own Discord communities.
 
 ## License
 
